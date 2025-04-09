@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FilimonAlem
 - 👀 I’m interested in problem solving with personal development.
 - 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on the problematic areas of ethiopia that are going to be resolved with my proffession.
+- 💞️ I’m looking to collaborate on the problematic areas of ethiopia that are going to be solved with my proffession.
 - 📫 How to reach me ?, you can reach me with the email filimonalem1@gmail.com
 - 😄 Pronouns: fillat
 - ⚡ Fun fact: ...
